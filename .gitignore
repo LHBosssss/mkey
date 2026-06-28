@@ -17,3 +17,5 @@ xcuserdata/
 # Swift Package Manager
 .build/
 .swiftpm/
+config.bat
+node_modules
